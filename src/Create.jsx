@@ -27,7 +27,7 @@ function Create() {
               type="text"
               name="name"
               className="form-control"
-              placeholder="enter name"
+               placeholder="enter name"
               onChange={(e) => setName(e.target.value)}
             />
           </div>
